@@ -235,3 +235,4 @@
 {"message":"::1 - - [05/Jul/2020:23:52:29 +0000] \"GET /fluxoCaixaPlataforma/8/E HTTP/1.1\" 200 332\n","level":"info"}
 {"message":"::1 - - [05/Jul/2020:23:56:57 +0000] \"GET /fluxoCaixaEntrada/8 HTTP/1.1\" 200 332\n","level":"info"}
 {"message":"::1 - - [06/Jul/2020:00:03:37 +0000] \"GET /fluxoCaixaEntrada/8 HTTP/1.1\" 200 332\n","level":"info"}
+{"message":"::1 - - [06/Jul/2020:01:19:56 +0000] \"GET /estoque/8 HTTP/1.1\" 200 857\n","level":"info"}
